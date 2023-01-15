@@ -55,7 +55,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|139762500|79921000|9ae3517a-2494-4837-8f33-46ede32deb5c|dbdd6106-eed6-4618-aba1-d0e6a1331d01",
+        "drill_out_of_range|133960047|109441846|c8ca715c-8a49-42af-aa94-d6b2b1ae8052|00000000-0000-0000-0000-000000000000",
+        "hole_clearance|52287500|56630000|d4d9d6ce-c1fe-468c-91c7-eacb7c4e10ea|98c7f233-82d5-4f57-aa92-d23a92f2345e",
+        "hole_clearance|52287500|75630000|39b797f0-292c-4ccc-b976-50c8473f5d37|8e58ce3c-7c5d-4f88-809e-ab48436696ca"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -351,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corne-ultralight.kicad_pro",
+    "filename": "keebilly-corne-ultralight.kicad_pro",
     "version": 1
   },
   "net_settings": {
