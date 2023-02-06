@@ -412,11 +412,8 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "+BATT",
           "+BATTA",
-          "GND",
           "GNDA",
-          "Net-(BATJ1-Pad2)",
           "Net-(BATJ3-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
